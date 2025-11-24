@@ -1,0 +1,11 @@
+gradio
+pandas
+numpy
+scikit-learn
+scipy
+prometheus-client
+openpyxl
+requests
+joblib
+uvicorn
+fastapi
