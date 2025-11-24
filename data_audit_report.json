@@ -1,0 +1,21 @@
+{
+    "timestamp_utc": "2025-11-23T20:41:40.471636+00:00",
+    "file_path": "university_admission_requirements.xlsx",
+    "file_hash": "cc6684f4a632b07189b7d3cbabced31d2b63bfd432e8e40af4e1a72d18d6a7b5",
+    "rows": 10,
+    "columns": 10,
+    "high_missing_columns": {},
+    "range_violations": {},
+    "duplicates_found": 0,
+    "outlier_counts": {
+        "Average GRE Required": 0,
+        "Average TOEFL Required": 0,
+        "Average IELTS Required": 0,
+        "Minimum CGPA Required": 0,
+        "Acceptance Rate (%)": 0,
+        "University Rating (1-5)": 0
+    },
+    "imbalances_detected": {},
+    "pii_hits_count": 0,
+    "trust_score_estimate": 100.0
+}
